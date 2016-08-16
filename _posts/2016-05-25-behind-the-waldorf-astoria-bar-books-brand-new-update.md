@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T16:36:21.949Z'
+datePublished: '2016-08-16T16:36:21.955Z'
 sourcePath: _posts/2016-05-25-behind-the-waldorf-astoria-bar-books-brand-new-update.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/waldorf-astoria-bar-book-update'
@@ -17,7 +17,7 @@ keywords:
   - hotel
 related: []
 author: []
-dateModified: '2016-08-16T16:36:19.935Z'
+dateModified: '2016-08-16T16:36:20.087Z'
 title: Behind The Waldorf Astoria Bar Book's Brand New Update
 app_links: []
 publisher:
